@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goosople&#39;s Blogs</title>
+    <link>https://goosople.github.io/</link>
+    <description>Recent content on Goosople&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Feb 2021 14:10:28 +0000</lastBuildDate><atom:link href="https://goosople.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客</title>
+      <link>https://goosople.github.io/posts/first-post/</link>
+      <pubDate>Wed, 03 Feb 2021 14:10:28 +0000</pubDate>
+      
+      <guid>https://goosople.github.io/posts/first-post/</guid>
+      <description>这是我的第一篇博客。暂时不知道写什么。以后再说。
+中考在即，加油！</description>
+    </item>
+    
+  </channel>
+</rss>
